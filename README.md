@@ -5,19 +5,20 @@ Estou estudando React, Next JS, Typescript e styled-components.
 No YouTube, encontrei o canal da Fernanda Kipper (https://www.youtube.com/watch?v=fF-UWgeiELc), resolvendo o Frontend Challenge de código aberto da Rocketseat.
 
 
-# Como ficou o site de Ecommerce
+# Resultado front-end
 
 Página Home:
 
-![capputeeno_home](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/74ee6071-1271-4cd8-b7da-75a7f76dd5a3)
+![capputeeno_home](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/e17c814c-b06d-49bd-83a9-e5ae7d19d017)
 
 Página Product-info:
 
-![capputeeno_product_info](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/4d355638-d5b3-4e66-a9be-34c886c627ad)
+![capputeeno_product_info](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/be57a331-d0d9-4c95-87fd-75e8304b793a)
 
 Página Cart:
 
-![capputeeno_cart](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/a1904242-2dbe-4baf-8d83-179478fb2b34)
+![capputeeno_cart](https://github.com/AnnaPaulaS/challenge-frontend/assets/114079845/54b3d0e4-9ae1-49d0-b22c-e0395fcee4e7)
+
 
 # Qual era o desafio?
 
